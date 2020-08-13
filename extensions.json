@@ -1,9 +1,14 @@
 [
 	"arnohovhannisyan.syncify",
 	"CoenraadS.bracket-pair-colorizer-2",
+	"donjayamanne.githistory",
 	"dracula-theme.theme-dracula",
 	"eamodio.gitlens",
 	"esbenp.prettier-vscode",
+	"firefox-devtools.vscode-firefox-debug",
 	"itsjonq.owlet",
-	"ms-azuretools.vscode-docker"
+	"ms-azuretools.vscode-docker",
+	"msjsdiag.debugger-for-chrome",
+	"pranaygp.vscode-css-peek",
+	"streetsidesoftware.code-spell-checker"
 ]
