@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Owlet (Dracula)",
-    "gitlens.codeLens.enabled": false
+    "gitlens.codeLens.enabled": false,
+    "workbench.iconTheme": "vscode-icons"
 }
