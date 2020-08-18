@@ -4,5 +4,6 @@
     "workbench.iconTheme": "vscode-icons",
     "window.zoomLevel": 1,
     "workbench.editor.enablePreview": false,
-    "workbench.editor.enablePreviewFromQuickOpen": false
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "window.title": "${activeEditorMedium}${separator}${rootName}"
 }
