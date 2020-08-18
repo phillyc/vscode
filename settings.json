@@ -5,5 +5,5 @@
     "window.zoomLevel": 1,
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "window.title": "${activeEditorMedium}${separator}${rootName}"
+    "window.title": "${activeEditorMedium}${separator}"
 }
