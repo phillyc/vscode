@@ -6,5 +6,6 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "window.title": "${activeEditorMedium}${separator}",
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "terminal.external.osxExec": "/bin/bash"
 }
