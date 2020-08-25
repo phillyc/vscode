@@ -7,5 +7,6 @@
     "window.title": "${activeEditorMedium}${separator}",
     "editor.renderWhitespace": "all",
     "terminal.external.osxExec": "/bin/bash",
-    "workbench.colorTheme": "Dracula"
+    "workbench.colorTheme": "Dracula",
+    "firefox.executable": "/Applications/Firefox.app"
 }
