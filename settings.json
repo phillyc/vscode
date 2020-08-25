@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Kimbie Dark",
     "gitlens.codeLens.enabled": false,
     "workbench.iconTheme": "vscode-icons",
     "window.zoomLevel": 1,
@@ -7,5 +6,6 @@
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "window.title": "${activeEditorMedium}${separator}",
     "editor.renderWhitespace": "all",
-    "terminal.external.osxExec": "/bin/bash"
+    "terminal.external.osxExec": "/bin/bash",
+    "workbench.colorTheme": "Dracula"
 }
