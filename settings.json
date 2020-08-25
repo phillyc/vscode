@@ -8,5 +8,8 @@
     "editor.renderWhitespace": "all",
     "terminal.external.osxExec": "/bin/bash",
     "workbench.colorTheme": "Dracula",
-    "firefox.executable": "/Applications/Firefox.app"
+    "firefox.executable": "/Applications/Firefox.app",
+    "editor.rulers": [
+    80, 120
+    ]
 }
